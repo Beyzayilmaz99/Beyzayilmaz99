@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">Junior Data Scientist from Turkey</h3>
+<h3 align="center">Data Scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
