@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Statistics**
+- 🌱 I’m currently learning **Data Science, Machine Learning, SQL, Statistics**
 
 - 📫 How to reach me **beyzayilmaz038@gmail.com**
 
